@@ -4,7 +4,7 @@ Living in the middle of Sweden. I enjoy new challenging projects and I am eager 
 
 I am an night owl and I hate early mornings :)
 
-- 📫 How to reach me: Send me an email at pontus@engblom.me or head on over to engblom.me for contact details.
+- 📫 How to reach me: Head on over to engblom.me for contact details.
 
 ## Find me at
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pontusengblom/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.engblom.me)
